@@ -4,12 +4,12 @@
 
 _If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?_
 
-### Solución
+### Solución 2
 
-Convertir el número en hexadecimal a su representación en código ASCII
-
-- Usar una página web hex to ascii
-- Usar una herramienta web como **cyberhef**
+```
+Input: 0x70
+Recipe: From Hex
+```
 
 
 `picoCTF{p}`
