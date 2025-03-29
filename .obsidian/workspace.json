@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/02- Web/03- Scavengers Hunt.md",
+                "file": "Web/03- Web/03- JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03- Scavengers Hunt"
+              "title": "03- JaWT Scratchpad"
             }
           }
         ],
@@ -281,10 +281,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf39004b0efdccae",
+  "active": "0178bec29ba0e231",
   "lastOpenFiles": [
-    "Plantilla.md",
+    "Web/03- Web/02- Cookies.md",
+    "Web/03- Web/01-Irish-Name-Repo 1.md",
     "Web/02- Web/03- Scavengers Hunt.md",
+    "Web/03- Web/03- JaWT Scratchpad.md",
+    "Web/03- Web",
+    "Plantilla.md",
     "Web/02- Web/02- Cookies.md",
     "Web/02- Web/01- GET a HEAD.md",
     "Web/01- Web/01- Logon.md",
@@ -310,14 +314,10 @@
     "picoCTF/01 -General Skills/07- whats a net cat.md",
     "picoCTF/01 -General Skills/08- plumbing.md",
     "picoCTF/01 -General Skills/09- Glitch Cat.md",
-    "picoCTF/01 -General Skills/10- Nice netcat....md",
-    "picoCTF/02- General Skills/01- Big Zip.md",
-    "Tareas/02 - binhexa.md",
     "Tareas",
     "Tarea 01- General Skills",
     "picoCTF/03- General Skills",
     "picoCTF/02- General Skills/Untitled",
-    "picoCTF/02- General Skills",
-    "picoCTF/01 -General Skills"
+    "picoCTF/02- General Skills"
   ]
 }
