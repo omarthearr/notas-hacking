@@ -4,184 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "5a59fa3f166ebe05",
+        "id": "258a1549bb5e2267",
         "type": "tabs",
         "children": [
           {
-            "id": "fa7001610209461c",
+            "id": "7faeaccef2d74d91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plantilla.md",
+                "file": "Forensic/03- Forensic/01- WebNet0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla"
+              "title": "01- WebNet0"
             }
           },
           {
-            "id": "6fdb10bbe5f0b66d",
+            "id": "851996e684d56c22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/05- PicoBrowser.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05- PicoBrowser"
-            }
-          },
-          {
-            "id": "e95c54aa84ab8dd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/01- Web/01- Logon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01- Logon"
-            }
-          },
-          {
-            "id": "ea55bd11edd58aff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/01- Web/02- Robots.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02- Robots"
-            }
-          },
-          {
-            "id": "a6ec43d240620a3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/01- Web/01- Logon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01- Logon"
-            }
-          },
-          {
-            "id": "137349b14fdc9f31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/01- Web/01- Logon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01- Logon"
-            }
-          },
-          {
-            "id": "29bbaf43435d0a73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/02- Web/01- GET a HEAD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01- GET a HEAD"
-            }
-          },
-          {
-            "id": "732742757fbdc11d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/02- Web/02- Cookies.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02- Cookies"
-            }
-          },
-          {
-            "id": "0178bec29ba0e231",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/03- Web/03- JaWT Scratchpad.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03- JaWT Scratchpad"
-            }
-          },
-          {
-            "id": "f0b897f70e3ef59c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plantilla"
-            }
-          },
-          {
-            "id": "6ce6bf36a30341d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/02- extensions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02- extensions"
-            }
-          },
-          {
-            "id": "d89e3db7a947844e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/03- So Meta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03- So Meta"
-            }
-          },
-          {
-            "id": "19789e9b99be748a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/04- What Lies Within.md",
+                "file": "Forensic/01- Forensic/04- What Lies Within.md",
                 "mode": "source",
                 "source": false
               },
@@ -190,189 +36,63 @@
             }
           },
           {
-            "id": "4c98b2dd9ce824dd",
+            "id": "00bf976396c10c00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plantilla.md",
+                "file": "Forensic/01- Forensic/01- Glory of the Garden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla"
+              "title": "01- Glory of the Garden"
             }
           },
           {
-            "id": "6503c3150978e014",
+            "id": "f1cb33c0635a0e50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/04- Web/02-SOAP.md",
+                "file": "Forensic/01- Forensic/02- extensions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-SOAP"
+              "title": "02- extensions"
             }
           },
           {
-            "id": "edf3f456b54f70e8",
+            "id": "7ea5abdd712b142a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/04- Web/03- Trickstered.md",
+                "file": "Forensic/01- Forensic/03- So Meta.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03- Trickstered"
+              "title": "03- So Meta"
             }
           },
           {
-            "id": "b16b41798b2bf3f7",
+            "id": "03502e58ae083604",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/RetosWeb/01- Includes.md",
+                "file": "Crypto/02- Crypto/01- rsa-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01- Includes"
-            }
-          },
-          {
-            "id": "d5fe8136243052aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/RetosWeb/02- Inspect HTML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02- Inspect HTML"
-            }
-          },
-          {
-            "id": "6e749af709bd88d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plantilla"
-            }
-          },
-          {
-            "id": "d5a7791c802ae2ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/RetosWeb/04- Local Authority.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04- Local Authority"
-            }
-          },
-          {
-            "id": "4fa62b186460986f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/RetosWeb/05- Unminify.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05- Unminify"
-            }
-          },
-          {
-            "id": "faf818ecdea67051",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/RetosWeb/06- WebDecode.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "06- WebDecode"
-            }
-          },
-          {
-            "id": "b6bd7d4b3157c6d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/RetosWeb/07- Power Cookie.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "07- Power Cookie"
-            }
-          },
-          {
-            "id": "ff17f985f3e04dc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/RetosWeb/08- Roboto Sans.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "08- Roboto Sans"
-            }
-          },
-          {
-            "id": "a584c87f87a3bfbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/RetosWeb/09- Secrets.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "09- Secrets"
-            }
-          },
-          {
-            "id": "49225ac0463ab18a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web/RetosWeb/10- SQLiLite.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10- SQLiLite"
+              "title": "01- rsa-pop-quiz"
             }
           }
         ],
-        "currentTab": 25
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -519,43 +239,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf39004b0efdccae",
+  "active": "03502e58ae083604",
   "lastOpenFiles": [
-    "Plantilla.md",
-    "Web/RetosWeb/10- SQLiLite.md",
-    "Web/RetosWeb/09- Secrets.md",
-    "Web/RetosWeb/08- Roboto Sans.md",
-    "Web/RetosWeb/07- Power Cookie.md",
-    "Web/RetosWeb/06- WebDecode.md",
-    "Web/RetosWeb/05- Unminify.md",
-    "Web/RetosWeb/04- Local Authority.md",
-    "Web/RetosWeb/03- IntroToBurp.md",
-    "Web/RetosWeb/02- Inspect HTML.md",
-    "Web/RetosWeb/01- Includes.md",
-    "Web/04- Web/03- Trickstered.md",
+    "Crypto/01- Crypto/03- The Numbers.md",
+    "Crypto/02- Crypto/01- rsa-pop-quiz.md",
+    "Forensic/04- Forensic/01- Disk, disk, sleuth!.md",
+    "Crypto/02- Crypto",
+    "Untitled",
+    "Forensic/04- Forensic/04- Operation Orchid.md",
+    "Forensic/04- Forensic/06- Milkslap.md",
+    "Forensic/04- Forensic/05- Operation Oni.md",
+    "Forensic/04- Forensic/02- Sleuthkit Intro.md",
+    "Forensic/04- Forensic/03- Sleuthkit Apprentice.md",
+    "Forensic/03- Forensic/05- MacroHard WeakEdge.md",
+    "Forensic/03- Forensic/04- Tunnel Vision.md",
+    "Forensic/03- Forensic/03- Matryoshka doll.md",
+    "Crypto/01- Crypto/08- waves over lambda.md",
+    "Crypto/01- Crypto/02- interencdec.md",
+    "Crypto/01- Crypto/01- 13.md",
+    "Crypto/01- Crypto/07- Tapping.md",
+    "Crypto/01- Crypto/06- la cifra de.md",
+    "Crypto/01- Crypto/05- Easy1.md",
+    "Crypto/01- Crypto/04- caesar.md",
+    "Tareas/03- Forensic/10- St3g0.md",
+    "Crypto/01- Crypto",
+    "Crypto",
+    "Tareas/03- Forensic/09- Redaction gone wrong.md",
+    "Tareas/03- Forensic/08- hideme.md",
+    "Tareas/03- Forensic/07- flags are stepic.md",
+    "Tareas/03- Forensic/06- Secret of the Polyglot.md",
+    "Tareas/03- Forensic/05- Scan Surprise.md",
+    "Tareas/03- Forensic/04- RED.md",
+    "Tareas/03- Forensic/03- Ph4nt0m 1ntrud3r.md",
+    "Tareas/03- Forensic",
+    "Forensic/01- Forensic",
+    "Forensic/04- Forensic",
+    "Forensic/03- Forensic",
     "Web/RetosWeb",
-    "Web/04- Web/02-SOAP.md",
-    "Web/04- Web/01- MatchTheRegex.md",
-    "README.md",
-    "Forensic/04- What Lies Within.md",
-    "Web/04- Web",
-    "Forensic/03- So Meta.md",
-    "Forensic/02- extensions.md",
-    "Forensic/01- Glory of the Garden.md",
-    "Web/03- Web/03- JaWT Scratchpad.md",
-    "Forensic",
-    "Web/03- Web/02- Cookies.md",
-    "Web/03- Web/01-Irish-Name-Repo 1.md",
-    "Web/02- Web/03- Scavengers Hunt.md",
-    "Web/03- Web",
-    "Web/02- Web/02- Cookies.md",
-    "Web/02- Web/01- GET a HEAD.md",
-    "Web/01- Web/01- Logon.md",
-    "Web/02- Web",
-    "Web/01- Web",
-    "Web",
-    "Web/01- Web",
-    "Tareas",
-    "Tarea 01- General Skills"
+    "Web/04- Web"
   ]
 }
