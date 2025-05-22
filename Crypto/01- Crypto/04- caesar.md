@@ -13,7 +13,7 @@ cat ciphertext.txt
 
 # Aplicar un cifrado César inverso probando diferentes desplazamientos hasta obtener un texto legible
 
-# Herramientas como CyberChef pueden facilitar este proceso
+# Poniendolo en Cybechef jalo
 
 
 ```

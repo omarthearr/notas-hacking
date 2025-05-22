@@ -20,4 +20,4 @@ wget https://artifacts.picoctf.net/c/XXX/the_numbers.png
 ```
 
 ## Flag
-picoCTF{THENUMBERSMASON}
+picoCTF{Th3_Numb3r_M4S0n}
