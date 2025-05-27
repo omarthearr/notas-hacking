@@ -8,91 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7faeaccef2d74d91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/03- Forensic/01- WebNet0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01- WebNet0"
-            }
-          },
-          {
-            "id": "851996e684d56c22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/01- Forensic/04- What Lies Within.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04- What Lies Within"
-            }
-          },
-          {
-            "id": "00bf976396c10c00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/01- Forensic/01- Glory of the Garden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01- Glory of the Garden"
-            }
-          },
-          {
-            "id": "f1cb33c0635a0e50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/01- Forensic/02- extensions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02- extensions"
-            }
-          },
-          {
-            "id": "7ea5abdd712b142a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forensic/01- Forensic/03- So Meta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03- So Meta"
-            }
-          },
-          {
             "id": "03502e58ae083604",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tareas/01- General Skills.md",
+                "file": "Tareas/01- General Skills/10 - ASCII Numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01- General Skills"
+              "title": "10 - ASCII Numbers"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,35 +170,35 @@
   },
   "active": "03502e58ae083604",
   "lastOpenFiles": [
-    "Tareas/03- Forensic/10- St3g0.md",
-    "Tareas/03- Forensic/09- Redaction gone wrong.md",
+    "Tareas/01- General Skills/09 - Binhexa.md",
+    "Tareas/01- General Skills/08 - Binary Search.md",
+    "Tareas/01- General Skills/07 - Collaborative Development.md",
+    "Tareas/01- General Skills/06 - Blame Game.md",
+    "Tareas/01- General Skills/05 - Time Machine.md",
+    "Tareas/01- General Skills/03 - Special.md",
+    "Tareas/01- General Skills/02- chrono.md",
+    "Tareas/01- General Skills/01- Permissions.md",
+    "Tareas/01- General Skills/10 - ASCII Numbers.md",
+    "Tareas/01- General Skills/04 - Commitment Issues.md",
+    "Tareas/01- General Skills.md",
+    "Tareas/03- Forensic/01- CanYouSee.md",
+    "Crypto/03- Crypto/01- Mind your Ps and Qs.md",
+    "Crypto/03- Crypto/02- Mini RSA.md",
     "Tareas/03- Forensic/08- hideme.md",
     "Tareas/03- Forensic/07- flags are stepic.md",
+    "Tareas/01- General Skills",
+    "Tareas/03- Forensic/10- St3g0.md",
+    "Tareas/03- Forensic/09- Redaction gone wrong.md",
     "Tareas/03- Forensic/06- Secret of the Polyglot.md",
     "Tareas/03- Forensic/05- Scan Surprise.md",
     "Tareas/03- Forensic/03- Ph4nt0m 1ntrud3r.md",
-    "Tareas/03- Forensic/01- CanYouSee.md",
     "Crypto/03- Crypto/04- b00tl3gRSA3.md",
     "Crypto/03- Crypto/08- waves over lambda.md",
     "Crypto/03- Crypto/07- Tapping.md",
     "Crypto/03- Crypto/06- la cifra de.md",
     "Crypto/03- Crypto/05- Easy1.md",
-    "Crypto/03- Crypto/03- b00tl3gRSA2.md",
-    "Crypto/03- Crypto/02- Mini RSA.md",
-    "Crypto/03- Crypto/01- Mind your Ps and Qs.md",
-    "Tareas/03- Forensic/02- information.md",
     "Crypto/03- Crypto",
-    "Crypto/01- Crypto/06- la cifra de.md",
-    "Crypto/01- Crypto/04- caesar.md",
-    "Crypto/01- Crypto/01- 13.md",
-    "Crypto/01- Crypto/02- interencdec.md",
-    "Crypto/01- Crypto/03- The Numbers.md",
-    "Crypto/01- Crypto/05- Easy1.md",
-    "Crypto/01- Crypto/07- Tapping.md",
-    "Crypto/01- Crypto/08- waves over lambda.md",
-    "Crypto/02- Crypto/01- rsa-pop-quiz.md",
     "Crypto/02- Crypto",
-    "Untitled",
     "Crypto/01- Crypto",
     "Crypto",
     "Tareas/03- Forensic",
