@@ -3,19 +3,25 @@ The Network Operations Center (NOC) of your local institution picked up a suspic
 
 ## Solucion
 ```
-# Descargar el archivo
-wget https://artifacts.picoctf.net/c/XXX/polyglot.pdf
-
-# Utilizar binwalk para analizar el archivo
-binwalk polyglot.pdf
-
-# Extraer los archivos embebidos
-binwalk -e polyglot.pdf
-
-# Inspeccionar los archivos extraídos para encontrar la bandera
-
+┌──(kali㉿kali)-[~/picoctf/forensic]  
+└─$ mkdir Polyglot  
+  
+┌──(kali㉿kali)-[~/picoctf/forensic]  
+└─$ cd Polyglot  
+  
+┌──(kali㉿kali)-[~/picoctf/forensic/Polyglot]  
+└─$ open flag2of2-final.pdf  
+  
+┌──(kali㉿kali)-[~/picoctf/forensic/Polyglot]  
+└─$ convert flag2of2-final.pdf flag2of2-final.png  
+  
+┌──(kali㉿kali)-[~/picoctf/forensic/Polyglot]  
+└─$ open flag2of2-final.png  
+  
+┌──(kali㉿kali)-[~/picoctf/forensic/Polyglot]  
+└─$
 
 ```
 
 ## Flag
-picoCTF{p0lyg10t_f1l3s_4r3_c00l}
+picoCTF{F1u3n7_1n_pn9_&_pdf_249d05c0}

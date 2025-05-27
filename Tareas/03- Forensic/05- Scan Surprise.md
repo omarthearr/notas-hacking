@@ -7,16 +7,10 @@ Additional details will be available after launching your challenge instance
 
 ## Solucion
 ```
-# Descargar la imagen
-wget https://artifacts.picoctf.net/c/XXX/qr.png
-
-# Utilizar zbarimg para escanear el código QR
-zbarimg qr.png
-
-# El resultado mostrará la bandera
+Descargue el archivo, y me extrajo varias carpetas. Hasta la ultima carpeta tenia una imagen, solo era un codigo qr. Al escanearlo te da la bandera
 
 
 ```
 
 ## Flag
-picoCTF{p33k_@_b00_b5ce2572}
+picoCTF{p33k_@_b00_7843f77c}

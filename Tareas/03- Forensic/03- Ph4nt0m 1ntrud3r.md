@@ -4,15 +4,9 @@ A digital ghost has breached my defenses, and my sensitive data has been stolen!
 
 ## Solucion
 ```
-# Abrir el archivo PCAP con Wireshark
-wireshark phantom_intruder.pcap
-
-# Filtrar por protocolos como HTTP o DNS
-# Buscar paquetes con datos sospechosos o cadenas codificadas
-# Extraer y decodificar los datos para encontrar la bandera
-
+Descargamos el archivo, lo analizamos con wireshark y buscamos los TCP payload. Copie los valores y los puse en un convertidor Hex to String, de ahi pase esos valores a un decoder de base64. Ahi me dio la badera
 
 ```
 
 ## Flag
-picoCTF{n3tw0rk_tr4ff1c_4n4lys1s}
+picoCTF{z1t_w4snt_th4t_34sy_tbh_4r_d1065384}

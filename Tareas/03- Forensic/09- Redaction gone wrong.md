@@ -5,12 +5,14 @@ Now you DON’T see me.This [report](https://artifacts.picoctf.net/c/84/Financi
 # Descargar el archivo PDF
 wget https://artifacts.picoctf.net/c/264/Financial_Report_for_ABC_Labs.pdf
 
-# Utilizar pdftotext para extraer el texto del PDF
-pdftotext Financial_Report_for_ABC_Labs.pdf output.txt
-
-# Leer el archivo de salida para encontrar la bandera
-cat output.txt
-
+Financial Report for ABC Labs, Kigali, Rwanda for the year 2021.  
+Breakdown - Just painted over in MS word.  
+Cost Benefit Analysis  
+Credit Debit  
+This is not the flag, keep looking  
+Expenses from the  
+picoCTF{C4n_Y0u_S33_m3_fully}  
+Redacted document.
 
 
 ```

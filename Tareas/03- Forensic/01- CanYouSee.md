@@ -17,4 +17,4 @@ Al inspeccionar el código fuente, se encuentra la bandera oculta en un comentar
 ```
 
 ## Flag
-picoCTF{1nsp3ct0r_g4dg3t_12345}
+picoCTF{ME74D47A_HIDD3N_6a9f5ac4}
